@@ -148,9 +148,3 @@ This ensures long-term accessibility and reproducibility of the work.
   year={2026}
 }
 ```
-
----
-
-## 📬 Contact
-
-(Your email here)
